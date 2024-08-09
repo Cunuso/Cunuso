@@ -1,5 +1,5 @@
 - 👋 Hi, I’m the Full Stack Website Developer
-- My fullname is Sifiso Mchunu
+- Fullname: Sifiso Mchunu
 - 👀 I’m interested in Python coding
 - 🌱 I’m currently learning more about Django Framework
 - 💞️ I’m looking to collaborate on Django Projects 
